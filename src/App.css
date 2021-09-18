@@ -1,0 +1,10 @@
+html, body, main, section, div, img, p, input, button, img, h3, a {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    background-color: #0458ff;
+    height: 100vh;
+}
